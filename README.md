@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @marco-moscato, living in Curitiba, Brazil.
-- 🌱 I’m currently studying web development at @Trybe - Turma 25A.
-- 📫 You can check my profile @ https://www.linkedin.com/in/marco-aurelio-moscato
+I'm <strong>Marco Moscato</strong>, living in Curitiba, south of Brazil.
+
+<strong>What I've been doing?</strong>
+- I’m currently not working, but studying full time <strong>Web Development Full Stack</strong> at @Trybe.  
+- HTML, CSS, JavaScript, <bold>React, Redux<bold>, Git, GitHub.
+
+<strong>How to reach me?</strong>
+- 📫 email: marcomoscatto@gmail.com
+- Cell: +55 (41) 99926-8545
+- LinkedIn: https://www.linkedin.com/in/marco-aurelio-moscato
 
 <!---
 marco-moscato/marco-moscato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
