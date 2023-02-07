@@ -1,7 +1,7 @@
 I'm <strong>Marco Moscato</strong>, living in Curitiba, south of Brazil.
 
 <strong>What I've been doing?</strong>
-- I’m currently not working, but studying full time <strong>Web Development Full Stack</strong> at @Trybe.  
+- I’m currently studying full time <strong>Web Development Full Stack</strong> at @Trybe.  
 - HTML, CSS, JavaScript, <bold>React, Redux<bold>, Git, GitHub.
 
 <strong>How to reach me?</strong>
