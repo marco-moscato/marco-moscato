@@ -1,4 +1,4 @@
-I'm <strong>Marco Moscato</strong>, living in Curitiba, south of Brazil.
+I'm <strong>Marco Moscato</strong>, living in Curitiba, Brazil.
 
 <strong>What I've been doing?</strong>
 - I’m currently studying full time <strong>Web Development Full Stack</strong> at @Trybe.  
